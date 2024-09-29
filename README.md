@@ -25,12 +25,12 @@ A dataset called schools.csv is provided.
 
 | Column     | Description              |
 |------------|--------------------------|
-| `school_name` | The name of the school |
-| `'borough` | The NYC borough where the school is located |
-| `building_code` | The code identifying the school building |
-| `average_math` | The average math SAT score for the school |
-| `average_reading` | The average reading SAT score for the school |
-| `average_writing` | The average writing SAT score for the school |
-| `percent_tested` | The percentage of students tested in the SAT |
+| `'school_name'` | The name of the school |
+| `'borough'` | The NYC borough where the school is located |
+| `'building_code'` | The code identifying the school building |
+| `'average_math'` | The average math SAT score for the school |
+| `'average_reading'` | The average reading SAT score for the school |
+| `'average_writing'` | The average writing SAT score for the school |
+| `'percent_tested'` | The percentage of students tested in the SAT |
 
 
