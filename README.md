@@ -19,3 +19,18 @@ NOTE:
       "average_SAT" - the mean of "total_SAT".
       "std_SAT" - the standard deviation of "total_SAT".
      Round all numeric values to two decimal places.
+
+# DATASET
+A dataset called schools.csv is provided.
+
+| Column     | Description              |
+|------------|--------------------------|
+| `school_name` | The name of the school |
+| `'borough` | The NYC borough where the school is located |
+| `building_code` | The code identifying the school building |
+| `average_math` | The average math SAT score for the school |
+| `average_reading` | The average reading SAT score for the school |
+| `average_writing` | The average writing SAT score for the school |
+| `percent_tested` | The percentage of students tested in the SAT |
+
+
